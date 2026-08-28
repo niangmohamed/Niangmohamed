@@ -123,16 +123,21 @@ I publish notes and tutorials on data science and AI on **[Medium](https://mediu
 ## GitHub in numbers
 
 <p align="center">
-  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niangmohamed&theme=github_dark">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niangmohamed&theme=github_dark">
+    <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niangmohamed&theme=default">
+  </picture>
 </p>
 
 <p align="center">
-  <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niangmohamed&theme=github_dark">
-  <img alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niangmohamed&theme=github_dark">
-</p>
-
-<p align="center">
-  <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niangmohamed&theme=github_dark&utcOffset=2">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niangmohamed&theme=github_dark">
+    <img alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niangmohamed&theme=default">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niangmohamed&theme=github_dark">
+    <img alt="Most used language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niangmohamed&theme=default">
+  </picture>
 </p>
 
 ## Let's talk
